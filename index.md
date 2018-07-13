@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub presentation of biggest revolution you've ever seen!
 
-You can use the [editor on GitHub](https://github.com/jaskierLTD/Face-Recognition-Machine-Learning-iOS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This application will help to determine psychological type of personality. 
+Previously everyone was tring to defines this by dozens of tests. Thanks to Oleksandr, now you can skip the history of psychology and receive the result!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+All you need is just to upload your photo!
 
-### Markdown
+### Machine Learning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+During researches Python and pip3 were used to train SQUEEZENET model.
+This weight (5mb) let us implement the test in every device! (iOS/Android).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaskierLTD/Face-Recognition-Machine-Learning-iOS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![alt text](https://github.com/jaskierLTD/Face-Recognition-Machine-Learning-iOS/blob/master/IMG_5981.PNG)
+![alt text](https://github.com/jaskierLTD/Face-Recognition-Machine-Learning-iOS/blob/master/IMG_5992.PNG)
+![alt text](https://github.com/jaskierLTD/Face-Recognition-Machine-Learning-iOS/blob/master/IMG_6030.PNG)
+![alt text](https://github.com/jaskierLTD/Face-Recognition-Machine-Learning-iOS/blob/master/IMG_6272.PNG)
+![alt text](https://github.com/jaskierLTD/Face-Recognition-Machine-Learning-iOS/blob/master/IMG_6273.PNG)
+![alt text](https://github.com/jaskierLTD/Face-Recognition-Machine-Learning-iOS/blob/master/IMG_6274.PNG)
+![alt text](https://github.com/jaskierLTD/Face-Recognition-Machine-Learning-iOS/blob/master/IMG_6276.PNG)
