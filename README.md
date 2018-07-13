@@ -1,7 +1,6 @@
-# Face-Recognition-Machine-Learning-iOS
+# FaceRecognition-MachineLearning-iOS
+# Swift / iOS
 Psychological type (swift)
-
-## Swift / iOS
 
 ## Welcome to GitHub presentation of biggest revolution you've ever seen!
 
